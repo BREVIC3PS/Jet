@@ -25,7 +25,7 @@ The jet is both breakable and destructible, with all actions synchronized across
 The jet can sustain damage from collisions or gunfire while in flight, leading to dynamically altered airflow and variations in control simulation results.
 
 ## Physics Asset
-![image](Demo/PhysicsAsset.gif)  
+![image](Demo/PhysicsAsset.png)  
 The configuration of physics assets will realistically alter the center of mass and affect the sensation of flight control.
 
 # Thank you!
