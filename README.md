@@ -1,8 +1,10 @@
 # Phisical Jet project
 This is a samll physical playground with some of my experiments. Currently there are is a physical jet and some other veihicles. In the future I may add more fun stuff here(or in other repos). 
 
+![image](Demo/Preview.png)  
+
 # Demo Video
-![video](Demo/DemoVideo.mp4)  
+[DemoVideoInYoutube](https://youtu.be/l82d5NvAxdQ)
 
 (If gifs are not shown please wait or go to [Gifs](Demo) to watch them.)
 # Features
